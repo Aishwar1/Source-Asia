@@ -24,18 +24,18 @@ http://localhost:3000
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/443acd96-0c87-45dc-8a7e-06f3de7eeec5" width="49%" />
+  <img src="https://github.com/user-attachments/assets/443acd96-0c87-45dc-8a7e-06f3de7eeec5" width="50%" />
   <img src="https://github.com/user-attachments/assets/572cebb2-0069-4697-98ce-e8ab49246d4d" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99663298-9176-4d9c-802b-5d589158e3f8" width="49%" />
+  <img src="https://github.com/user-attachments/assets/99663298-9176-4d9c-802b-5d589158e3f8" width="50%" />
   <img src="https://github.com/user-attachments/assets/ec0d9f4c-1209-438c-b952-54816c342fcd" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e65b6a89-d69b-4893-8f29-28a6892543ae" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4a65db88-7672-4697-9edd-721771fe509c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4a65db88-7672-4697-9edd-721771fe509c" width="50%" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ http://localhost:3000
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c794f241-9617-4432-ad06-b901de17315e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c794f241-9617-4432-ad06-b901de17315e" width="50%" />
   <img src="https://github.com/user-attachments/assets/17851803-c8f0-4344-b80d-49f7e51cba76" width="45%" />
 </p>
 
