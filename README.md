@@ -48,7 +48,6 @@ http://localhost:3000
   <img src="https://github.com/user-attachments/assets/17851803-c8f0-4344-b80d-49f7e51cba76" width="45%" />
 </p>
 
----
 
 # API Endpoints
 
@@ -80,7 +79,6 @@ Rules:
 - Rolling 1-minute window
 - Exceeding limit returns 429
 
----
 
 ### GET /stats
 
@@ -97,7 +95,6 @@ Example:
 }
 ```
 
----
 
 ## Part 2 - Product Catalog API
 
@@ -124,7 +121,6 @@ Validation:
 - valid http/https URLs only
 - max 20 URLs per request
 
----
 
 ### GET /products
 
@@ -146,13 +142,11 @@ Pagination:
 - default limit = 10
 - max limit = 50
 
----
 
 ### GET /products/:id
 
 Returns full product details including all media URLs.
 
----
 
 ### POST /products/:id/media
 
@@ -168,7 +162,6 @@ Example:
 
 Adds media URLs to existing product.
 
----
 
 # Design Decisions
 
@@ -177,7 +170,6 @@ Adds media URLs to existing product.
 - Lightweight list endpoint for better performance
 - Full media arrays only returned in detail endpoint
 
----
 
 # Limitations
 
@@ -186,7 +178,6 @@ Adds media URLs to existing product.
 - No database persistence
 - No authentication
 
----
 
 # Production Improvements
 
