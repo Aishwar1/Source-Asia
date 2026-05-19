@@ -1,30 +1,21 @@
 # Source Asia Backend Assignment
-
 ## Tech Stack
-
 - Node.js
 - Express.js
 - UUID
 - In-memory storage
 
----
-
 # Setup
 
 Install dependencies:
-
 ```bash
 npm install
 ```
-
 Run server:
-
 ```bash
 npm run dev
 ```
-
 Server runs on:
-
 ```bash
 http://localhost:3000
 ```
